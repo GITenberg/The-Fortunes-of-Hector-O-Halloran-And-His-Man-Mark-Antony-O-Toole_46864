@@ -1,4 +1,5 @@
 _repo: The-Fortunes-of-Hector-O-Halloran-And-His-Man-Mark-Antony-O-Toole_46864
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Leech, John
@@ -8,12 +9,17 @@ contributor:
     gutenberg_agent_id: '9473'
     url: http://www.gutenberg.org/2009/agents/9473
     wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+covers:
+- cover_type: archival
+  image_path: 46864-h/images/cover.jpg
 creator:
   author:
     agent_name: Maxwell, W. H.
     gutenberg_agent_id: '44001'
     url: http://www.gutenberg.org/2009/agents/44001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46864#The-Fortunes-of-Hector-O-Halloran-And-His-Man-Mark-Antony-O-Toole
 gutenberg_issued: '2014-09-15'
 gutenberg_type: Text
 identifiers:
